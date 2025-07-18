@@ -50,8 +50,8 @@ Analyze the age, height, weight and other demographic features of footballers ar
 
 ## 🧠 Author
 
-Made with passion for both **football** and **data science**.  
-**By Sakib** | *SSC 2026 Batch • Aspiring Computer Engineer • AI/ML Enthusiast*
+Created with passion for both **football** and **data science**.  
+**Made By Sakib** 
 
 ---
 
