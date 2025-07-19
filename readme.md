@@ -14,7 +14,7 @@ Analyze how footballers rank in terms of their current skill and future potentia
 - Potential vs. Overall trends
 - Nationality-wise comparisons
 - Correlation heatmaps
-- Top 20 rankings
+- **And many more!**
 
 🗂 Status: ✅ Completed  
 
@@ -25,6 +25,17 @@ Analyze the age, height, weight and other demographic features of footballers ar
 - Top 20 most represented nationalities
 - Preferred foot usage (Right vs Left)
 - Distribution of player body types
+- **And many more!**
+
+🗂 Status: ✅ Completed  
+
+### 3. [Footballer Market Value and Wages Analysis](https://github.com/ByteBard58/Footballer-Market-Value)
+Analyze various financial parts of footballers, including value, wage, release clause etc. It presents:
+- Footballer Value Distribution
+- Footballer Wage Distribution
+- Value and Wage relationship
+- Player skills and financial aspects relationship
+- **And many more!**
 
 🗂 Status: ✅ Completed  
 
