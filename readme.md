@@ -66,12 +66,6 @@ Created with passion for both **football** and **data science**.
 
 ---
 
-## 🏗️ Coming Soon
-
-The series is still under construction. You will find all of them here when those are ready to publish.
-
----
-
 ## ⭐ Star This Repo
 
 If you like this type of analysis, feel free to ⭐ this repo and check out the sub-projects linked above!
