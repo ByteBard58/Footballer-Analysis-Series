@@ -47,7 +47,8 @@ Analyze various financial parts of footballers, including value, wage, release c
 - Use data science tools like pandas, matplotlib, seaborn
 - Build a complete sports data portfolio
 - Eventually model prediction systems (e.g., valuation, position-based potential)
-
+- Practice EDA skills
+  
 ---
 
 ## 🔧 Tech Stack
